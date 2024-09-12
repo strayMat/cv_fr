@@ -31,7 +31,7 @@
 )
 
 #resume-item[
-- Aide à la définition de la stratégie données de l'agence et à la mise en place de l'équipe data,
+- Aide à la définition de la stratégie de l'agence sur la donnée et à la mise en place de l'équipe data,
 - Rapport sur les entrepôts de données de santé français,
 - Etudes sur le Système National de Données de Santé,
 - Expérimentation d'automatisation de la mesure de la qualité à partir des entrepôts de données cliniques.
@@ -55,7 +55,7 @@
 
 #resume-item[
   - Cellule de crise Covid-19 : automatisation de traitements de données, tableaux de bord et indicateurs nationaux de suivi du premier déconfinement,
-  - Ingénieurie de données, documentation et études statistiques sur le Système de National de Données de Santé.
+  - Ingénieurie de données, documentation et études sur le Système de National de Données de Santé.
 ]
 
 #resume-entry(
@@ -89,7 +89,7 @@
 )
 
 #resume-item[
-  - Reinforcement learning, modèles graphiques, traitement automatique du langage, apprentissage en ligne, apprentissage profond, réseaux de neurones.
+  - Apprentissage par renforcement, modèles graphiques, traitement automatique du langage, apprentissage en ligne, apprentissage profond, réseaux de neurones.
 ]
 
 #resume-entry(
@@ -109,7 +109,7 @@
 )
 
 #resume-item[
-  - Statistiques, apprentissage statistique, probabilités, recherche opérationnelle, macro-économie, économétrie, biologie cellulaire, physique statistique, physique quantique.
+  - Statistiques, probabilités, apprentissage statistique, recherche opérationnelle, macro-économie, économétrie, biologie cellulaire, physique statistique, physique quantique.
 ]
 
 = Compétences techniques
