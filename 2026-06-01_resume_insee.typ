@@ -33,24 +33,24 @@
   date: "Septembre 2026 - aujourd'hui",
 )
 #resume-item[
-  - Etude sur les déterminants de la hausse des indemnités journalières (en cours, avec la Drees)
-  - Etude sur l'effet des pesticides sur la santé des agriculteurs et leur famille (en cours, avec la Drees)
-  - Etude sur l'effet des vagus de chaleur sur la productivité (en cours)
+  - Étude sur les déterminants de la hausse des indemnités journalières (en cours, avec la Drees)
+  - Étude sur l'effet des pesticides sur la santé des agriculteurs et leur famille (en cours, avec la Drees)
+  - Étude sur l'effet des vagues de chaleur sur la productivité (en cours)
   - Initialisation et co-développement (Inria, Inserm) du #link("https://github.com/SNDStoolers/sndsTools")[paquet logiciel R sndsTools] facilitant l'extraction des données du Système National de Données de Santé (SNDS)
 ]
 
 #resume-entry(
-  title: "Professeur d’Économétrie, Ensae",
+  title: "Professeur d’économétrie, Ensae",
   location: "Palaiseau, France",
   date: "Janvier 2025 - aujourd'hui",
 )
 #resume-item[
   - Redéfinition du #link("https://straymat.github.io/causal-ml-course/syllabus.html")[Cours : Machine Learning for Econometrics], ENSAE, 2025
-  - Dispense de la moitié des séances de cours en collaboration Bruno Crépon
+  - Dispense de la moitié des séances de cours en collaboration avec Bruno Crépon
 ]
 
 #resume-entry(
-  title: "Chef de projet, Haute autorité de santé, mission data",
+  title: "Chef de projet, Haute Autorité de santé, mission data",
   location: "Saint-Denis, France",
   date: "Octobre 2020 - avril 2025",
 )
@@ -60,7 +60,7 @@
   - Rapport #link("https://www.has-sante.fr/jcms/p_3386123/fr/entrepots-de-donnees-de-sante-hospitaliers-en-france")[Entrepôts de données de santé hospitaliers en France]
   - #link(
       "https://has-sante.pages.has-sante.fr/public/acces_precoces/",
-    )[Outil de de rapport automatisé à partir du SNDS sur les médicaments en accès précoces]
+    )[Outil de création de rapports automatisés à partir du SNDS sur les médicaments en accès précoces]
   - Rapport #link("https://www.has-sante.fr/jcms/p_3588697/fr/mesurer-la-qualite-des-soins-a-partir-des-entrepots-de-donnees-la-has-publie-une-etude-menee-avec-3-chu")[d'expérimentation d'automatisation de la mesure de la qualité à partir des entrepôts de données cliniques]
 ]
 
@@ -92,8 +92,8 @@
 
 #resume-item[
   - Cellule de crise Covid-19 : automatisation de traitements de données, tableaux de bord et indicateurs nationaux de suivi du premier déconfinement
-  - Ingénierie de données, documentation et études sur le Système de National de Données de Santé
-    - Transfert et adaptation sur le serveur big data de la Drees du #link("https://github.com/X-DataInitiative/SCALPEL-Flattening")[logiciel Scalpel (CNAM/Ecole Polytechnique)] pour l'exploitation du SNDS. Exploité par plusieurs équipes de la Drees et de l'Inria.
+  - Ingénierie de données, documentation et études sur le Système National de Données de Santé
+    - Transfert et adaptation sur le serveur big data de la Drees du #link("https://github.com/X-DataInitiative/SCALPEL-Flattening")[logiciel Scalpel (CNAM/Ecole Polytechnique)] pour l'exploitation du SNDS. Utilisé par plusieurs équipes de la Drees et de l'Inria.
     - Création de l'application #link("https://health-data-hub.shinyapps.io/dico-snds/")[Dictionnaire de variables SNDS]. Utilisée par plusieurs agences en santé.
     - Participation au rapport #link("https://solidarites-sante.gouv.fr/ministere/documentation-et-publications-officielles/rapports/sante/article/rapport-reforme-des-modes-de-financement-et-de-regulation")[Réforme des modes de financement et de régulation]
 
@@ -116,7 +116,7 @@
 #resume-entry(
   title: "Chef d'ambulance, Brigade de sapeurs-pompiers de Paris",
   location: "Paris, France",
-  date: "Octobre 2014 - Mars. 2015",
+  date: "Octobre 2014 - Mars 2015",
   description: "Direction d'équipes de trois secouristes lors d'interventions de secours à victimes.",
 )
 
@@ -137,12 +137,12 @@
 )
 
 #resume-item[
-  - Statistiques bayesiennes et computationnelles, apprentissage statistique, finances publiques, économétrie.
+  - Statistiques bayésiennes et computationnelles, apprentissage statistique, finances publiques, économétrie.
 ]
 
 
 #resume-entry(
-  title: "Cursus d'ingéneur en Mathématiques Appliquées, Ecole Polytechnique",
+  title: "Cursus d'ingénieur en Mathématiques Appliquées, École Polytechnique",
   date: "Sep. 2014 - Avril 2017",
 )
 
@@ -154,7 +154,7 @@
 
 #resume-item[
   - Langages : Python, R, SQL
-  - Outils : unix, git, docker, latex, gitlab CI/CD
+  - Outils : Unix, Git, Docker, LaTeX, GitLab CI/CD
 ]
 
 = Publications scientifiques
