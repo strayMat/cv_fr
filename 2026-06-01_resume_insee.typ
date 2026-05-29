@@ -46,7 +46,7 @@
 )
 #resume-item[
   - Redéfinition du #link("https://straymat.github.io/causal-ml-course/syllabus.html")[Cours : Machine Learning for Econometrics], ENSAE, 2025
-  - Dispense de la moitié des séances de cours en collaboration avec Bruno Crépon
+  - Dispense du cours en  (répartition 50/50 avec Bruno Crépon)
 ]
 
 #resume-entry(
@@ -92,7 +92,7 @@
 
 #resume-item[
   - Cellule de crise Covid-19 : automatisation de traitements de données, tableaux de bord et indicateurs nationaux de suivi du premier déconfinement
-  - Ingénierie de données, documentation et études sur le Système National de Données de Santé
+  - Ingénierie de données, documentation et études sur le SNDS
     - Transfert et adaptation sur le serveur big data de la Drees du #link("https://github.com/X-DataInitiative/SCALPEL-Flattening")[logiciel Scalpel (CNAM/Ecole Polytechnique)] pour l'exploitation du SNDS. Utilisé par plusieurs équipes de la Drees et de l'Inria.
     - Création de l'application #link("https://health-data-hub.shinyapps.io/dico-snds/")[Dictionnaire de variables SNDS]. Utilisée par plusieurs agences en santé.
     - Participation au rapport #link("https://solidarites-sante.gouv.fr/ministere/documentation-et-publications-officielles/rapports/sante/article/rapport-reforme-des-modes-de-financement-et-de-regulation")[Réforme des modes de financement et de régulation]
